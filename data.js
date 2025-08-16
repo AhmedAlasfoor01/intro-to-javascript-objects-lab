@@ -154,4 +154,4 @@ const pokemon = [
 ];
 module.exports = pokemon;
 
-<script defer src="./data.js"></script>
+
